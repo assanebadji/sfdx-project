@@ -6,6 +6,11 @@
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": false
+      }
+    },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
     }
